@@ -30,5 +30,14 @@ This is my leetcode Repo
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/AJ18-ALT/leetcode/tree/master/1470-shuffle-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
