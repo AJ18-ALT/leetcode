@@ -27,4 +27,8 @@ This is my leetcode Repo
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AJ18-ALT/leetcode/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/AJ18-ALT/leetcode/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
