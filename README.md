@@ -6,6 +6,7 @@ This is my leetcode Repo
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AJ18-ALT/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/AJ18-ALT/leetcode/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
@@ -40,4 +41,12 @@ This is my leetcode Repo
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AJ18-ALT/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AJ18-ALT/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
