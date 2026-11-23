@@ -31,6 +31,7 @@ This is my leetcode Repo
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AJ18-ALT/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/AJ18-ALT/leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -40,6 +41,7 @@ This is my leetcode Repo
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AJ18-ALT/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AJ18-ALT/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ This is my leetcode Repo
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AJ18-ALT/leetcode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AJ18-ALT/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
