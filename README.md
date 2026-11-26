@@ -8,6 +8,7 @@ This is my leetcode Repo
 | ------- |
 | [0069-sqrtx](https://github.com/AJ18-ALT/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/AJ18-ALT/leetcode/tree/master/0292-nim-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AJ18-ALT/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
 |  |
 | ------- |
@@ -65,4 +66,8 @@ This is my leetcode Repo
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AJ18-ALT/leetcode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AJ18-ALT/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
