@@ -56,6 +56,7 @@ This is my leetcode Repo
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AJ18-ALT/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/AJ18-ALT/leetcode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AJ18-ALT/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -69,5 +70,6 @@ This is my leetcode Repo
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AJ18-ALT/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AJ18-ALT/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
