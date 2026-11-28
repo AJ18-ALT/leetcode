@@ -6,6 +6,7 @@ This is my leetcode Repo
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AJ18-ALT/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AJ18-ALT/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/AJ18-ALT/leetcode/tree/master/0292-nim-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AJ18-ALT/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -66,6 +67,7 @@ This is my leetcode Repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AJ18-ALT/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AJ18-ALT/leetcode/tree/master/0136-single-number) |
 ## Linked List
 |  |
